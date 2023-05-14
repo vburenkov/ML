@@ -3,4 +3,5 @@ conda activate pytorch
 conda install numpy pandas matplotlib seaborn scikit-learn ipykernel
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 conda install -c conda-forge pycocotools
+conda install tqdm
 python -m ipykernel install --user --name=pytorch

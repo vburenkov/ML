@@ -25,3 +25,4 @@ data/*
 __pycache__/helper_functions.cpython-310.pyc
 .ipynb_checkpoints/NN_FINAL-checkpoint.ipynb
 .ipynb_checkpoints/portfolios sp 500 efficient frontier refined___-checkpoint.ipynb
+all_results_data.pkl

@@ -34,3 +34,4 @@ FINAL/.ipynb_checkpoints/Burenkov-checkpoint.ipynb
 RiskManagement/Project/.ipynb_checkpoints/Portfolio_Selection_Burenkov-checkpoint.ipynb
 RiskManagement/Project/.ipynb_checkpoints/Portfolio_Selection_Burenkov-checkpoint.ipynb
 *.pcl
+FINAL/corr_matrix.pickle
